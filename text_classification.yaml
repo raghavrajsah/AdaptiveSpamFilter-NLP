@@ -1,0 +1,22 @@
+exp: TextClassification
+
+mode: 
+   - train
+
+models: 
+    hf_text_classification_model:
+        - distilbert-base-uncased
+
+trainfpath: trainingData
+
+validfpath: ValidData
+
+modelfpath: ModelStore
+
+loadPretrained: False
+
+numLabels: 2
+
+
+
+
