@@ -1,0 +1,18 @@
+exp: TextClassification
+
+mode: 
+   - evaluate
+
+models: 
+    hf_text_classification_model:
+        - path-to-stored-model
+
+
+
+
+datafpath: train.tsv
+predfpath: file-to-save-predictions
+
+
+
+numLabels: 2
