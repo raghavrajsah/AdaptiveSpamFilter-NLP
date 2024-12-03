@@ -1,0 +1,9 @@
+textid	target	model	tokenizer	predicted	prob	predicted_numeric	correct	true_positive	false_positive	false_negative
+750	1	/home/mburack/AdaptiveSpamFilter-NLP/spam_model	/home/mburack/AdaptiveSpamFilter-NLP/spam_model	LABEL_0	0.6597419381141663	0	0	0	0	1
+868	1	/home/mburack/AdaptiveSpamFilter-NLP/spam_model	/home/mburack/AdaptiveSpamFilter-NLP/spam_model	LABEL_0	0.999667763710022	0	0	0	0	1
+2662	1	/home/mburack/AdaptiveSpamFilter-NLP/spam_model	/home/mburack/AdaptiveSpamFilter-NLP/spam_model	LABEL_0	0.9853274822235109	0	0	0	0	1
+2773	1	/home/mburack/AdaptiveSpamFilter-NLP/spam_model	/home/mburack/AdaptiveSpamFilter-NLP/spam_model	LABEL_0	0.8334844708442688	0	0	0	0	1
+2964	1	/home/mburack/AdaptiveSpamFilter-NLP/spam_model	/home/mburack/AdaptiveSpamFilter-NLP/spam_model	LABEL_0	0.8728051781654358	0	0	0	0	1
+4948	1	/home/mburack/AdaptiveSpamFilter-NLP/spam_model	/home/mburack/AdaptiveSpamFilter-NLP/spam_model	LABEL_0	0.997612476348877	0	0	0	0	1
+5369	1	/home/mburack/AdaptiveSpamFilter-NLP/spam_model	/home/mburack/AdaptiveSpamFilter-NLP/spam_model	LABEL_0	0.7271722555160522	0	0	0	0	1
+5448	1	/home/mburack/AdaptiveSpamFilter-NLP/spam_model	/home/mburack/AdaptiveSpamFilter-NLP/spam_model	LABEL_0	0.9698828458786012	0	0	0	0	1
